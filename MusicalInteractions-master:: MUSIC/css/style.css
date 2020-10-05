@@ -7,7 +7,7 @@
 
 body {
 	font-family: 'Quicksand', sans-serif;
-	color: #af1b9b;
+	color: #490540;
 	background: rgb(163, 9, 104);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -16,14 +16,14 @@ body {
 a {
 	font-weight: bold;
 	text-decoration: none;
-	color: #1a0216;
+	color: #ebebeb;
 	outline: none;
 	transition: color 0.2s;
 }
 
 a:hover,
 a:focus {
-	color: #fc00a8;
+	color: #ffffff;
 	outline: none;
 }
 
@@ -108,7 +108,7 @@ a:focus {
 	text-align: center;
 	white-space: pre;
 	font-weight: bold;
-	color: #a200ff;
+	color: #ffffff;
 	background: url(../img/note.svg) no-repeat 50% calc(50% - 3em);
 	background-size: 2.5em;
 	animation: loaderAnim 1s alternate infinite;
@@ -152,7 +152,7 @@ a:focus {
 	text-align: center;
 	white-space: nowrap;
 	pointer-events: auto;
-	background: #9001f0;
+	background: #ffffff;
 }
 
 .codrops-links::after {
@@ -163,7 +163,7 @@ a:focus {
 	width: 1px;
 	height: 60%;
 	opacity: 0.7;
-	background: #7f03c7;
+	background: #ffffff;
 	transform: rotate(22.5deg);
 }
 
@@ -297,7 +297,7 @@ a:focus {
 }
 
 .content__inner--c1 {
-	background: #ad08ce;
+	background: #280330;
 }
 
 .content__inner--c2 {
